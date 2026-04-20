@@ -19,7 +19,6 @@ X-Bows was designed with three criteria in mind:
 Make example for this keyboard (after setting up your build environment):
 
     make xbows/numpad_v2:default
-    make xbows/numpad_v2:via
 
 Flashing example for this keyboard:
 
