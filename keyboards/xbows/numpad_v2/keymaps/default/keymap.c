@@ -16,22 +16,6 @@
 #include QMK_KEYBOARD_H
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
-  /* Keymap VANILLA: (Base Layer) Default Layer
-   *
-   * |-------------------------------|
-   * |  Esc  |  Tab  |   BS  |   Fn  |
-   * |-------------------------------|
-   * |  NUM  |   /   |   *   |   -   |
-   * |-------------------------------|
-   * |   7   |  8    |   9   |       |
-   * |------------------------   +   |
-   * |   4   |   5   |   6   |       |
-   * |-------------------------------|
-   * |   1   |  2   |    3   |       |
-   * |------------------------ ENTER |
-   * |        0     |    .   |       |
-   * |-----------------------|       |
-   */
   [0] = LAYOUT(
     KC_ESC ,  KC_TAB,   KC_BSPC,  MO(1),
     KC_NUM,   KC_PSLS,  KC_PAST,  KC_PMNS,
