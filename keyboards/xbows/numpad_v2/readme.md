@@ -1,5 +1,5 @@
 # NUMPAD_V2
-![NUMPAD_V2](https://cdn.shopify.com/s/files/1/0014/7623/1237/files/Close-up_of_the_X-Bows_Knight_Plus_Numpad_V2.jpg?v=1776832135)
+![NUMPAD_V2](https://imgur.com/a/Uo6IBRL)
 
 Knight-Plus is an Ergonomic Mechanical keyboard suite redesigned by X-Bow that includes both the main keyboard and the numpad.
 
